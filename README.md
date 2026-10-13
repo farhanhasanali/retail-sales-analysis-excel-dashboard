@@ -40,5 +40,5 @@ This project analyzes retail sales data to identify revenue trends, profitabilit
 
 ## Author
 
-Daniel Cabrera
+Farhan Hasanali
 Aspiring Data Analyst
